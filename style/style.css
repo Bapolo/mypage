@@ -2,7 +2,7 @@
 {
     color: rgba(255, 255, 255, 0.6);
     font-family: sans-serif;
-    font-weight: 100;
+    font-weight: 400;
 }
 
 body
@@ -72,7 +72,7 @@ main h1
 {
     margin: 0.5rem 0 0.8rem 0;
     font-size: 1.4rem;
-    font-weight: 500;
+    font-weight: 600;
     color: rgba(255, 255, 255, 1);
 }
 
@@ -125,7 +125,7 @@ main div a
 main div h2
 {
     font-size: 1.2rem;
-    font-weight: 700;
+    font-weight: 600;
     padding-bottom: 0;
 }
 
